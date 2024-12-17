@@ -1,0 +1,2 @@
+cd means change directry
+mkdir means make directry
